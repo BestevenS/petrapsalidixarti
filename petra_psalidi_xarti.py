@@ -1,5 +1,7 @@
 import random
 
+#Just changed something for the git
+
 choises = ['Πέτρα', 'Ψαλίδι', 'Χαρτί']
 score = {'Computer': 0, 'Player': 0}
 
